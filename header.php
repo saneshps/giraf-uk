@@ -1,12 +1,6 @@
    <?php include("gtag_body.php"); ?>
    <header class="header">
      <div class="toggle-menus">
-       <!-- country -->
-       <ul class="country-flag">
-         <li> <a href="https://girafcreatives.com/uk"> <img src="./img/united-kingdom-flag.png" alt="flag"> </a> </li>
-         <li> <a href="https://girafcreatives.com/uk"> <img src="./img/german-flag.png" alt="flag"> </a> </li>
-       </ul>
-       <!-- country -->
        <span class="menu-text"> Menu </span>
        <button aria-label='Toggle menu' class='nav-button button-lines button-lines-x close' role='button' type='button'>
          <span class='lines'></span>
