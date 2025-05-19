@@ -184,11 +184,11 @@
 
         </div>
 
-        <div class="col-xl-4 col-lg-5 col-md-12 felix-image">
+        <!-- <div class="col-xl-4 col-lg-5 col-md-12 felix-image">
           <img src="./img/Felix_Kistler.png" alt="felix kistler">
           <h4> Felix Kistler</h4>
           <h5> <a href="tel:497581488820"> +49 / 7581 / 48882-0 </a> </h5>
-        </div>
+        </div> -->
 
 
       </div>

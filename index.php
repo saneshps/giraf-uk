@@ -172,15 +172,15 @@ $result = $conn->query($sql);
         <div class="row">
 
           <!-- col-md-8 -->
-          <div class="col-xl-3 col-lg-3 col-md-12 felix-image">
+          <!-- <div class="col-xl-3 col-lg-3 col-md-12 felix-image">
             <img src="./img/Felix_Kistler.png" alt="felix kistler">
             <h4> Felix Kistler</h4>
             <h5> <a href="tel:497581488820"> +49 / 7581 / 48882-0 </a> </h5>
-          </div>
+          </div> -->
           <!--// col-md-8 -->
 
           <!-- col-md-4 -->
-          <div class="col-xl-5 col-lg-6 col-md-12 about-home-first">
+          <div class="col-xl-5 col-lg-5 col-md-12 about-home-first">
             <h6> ABOUT US </h6>
             <h4> We are a dynamic team committed to creating brand impact. </h4>
 
@@ -189,7 +189,7 @@ $result = $conn->query($sql);
 
 
           <!-- col-md-8 -->
-          <div class="col-xl-4 col-lg-3 col-md-12 about-home-scnd">
+          <div class="col-xl-7 col-lg-7 col-md-12 about-home-scnd">
             <p> At <span class="font-weight-normal"> Giraf UK</span> , we have an amazing group of creative experts driven by passion and vision,
               dedicated to delivering the best digital marketing strategies
               that will elevate your brand to greater heights
