@@ -111,16 +111,14 @@
           <!-- col-md-4 -->
           <div class="col-xl-4 col-lg-4 col-md-12 service-detailes-brief-first">
             <h6> Animation </h6>
-            <h4> YOU DREAM IT AND WE DO IT </h4>
+            <h4> Crafting stories, Frame by frame </h4>
           </div>
           <!--// col-md-4 -->
 
 
           <!-- col-md-8 -->
           <div class="col-xl-8 col-lg-8 col-md-12 service-detailes-brief-scnd">
-            <p> Giraf is a full-service provider of video animation, offering an outsourced framework
-              that fits any kind of budget while assisting businesses in differentiating their content
-              and advancing their social media and marketing strategies.
+            <p> Giraf provides comprehensive video animation services that well portrays your business concept, that befits any budget range.
             </p>
 
 
@@ -161,11 +159,13 @@
 
             <!-- col-md-12 -->
             <div class="col-md-12 service-detailes-brief-scnd flex-column align-items-start">
-              <p> From hand drawn frames to innovative digital technologies, animation has
-                taken a giant leap. Custom animated videos have proven to be effective in
-                helping businesses in brand promotion, leading to a visible growth in sales.
-                Giraf is dedicated to creating the animation content that highlights the core
-                of your brand narrative.
+              <p> From hand drawn frames to innovative digital technologies, animation has taken a giant leap.
+                Custom animated videos have proven to be effective in helping businesses in brand promotion,
+                leading to a visible growth in sales. Giraf UK is dedicated to creating the animation content
+                that highlights the core of our client’s brand narrative, that will strike a chord with
+                customers in the UK and globally as a whole.
+
+
               </p>
               <h5 class="witness"> Our animation services </h5>
               <ul>
@@ -185,11 +185,11 @@
             <div class="col-md-12 service-detailes-brief-scnd flex-column align-items-start">
               <h4 class="magic"> How do we create this magic? </h4>
               <p> From creating motion graphics to 3D content, our dynamic animation team
-                is on hand for you in developing the ideal video that encompasses your
-                vision. We employ innovative technologies and tools such as Adobe After
-                Effects, Flash, Photoshop and Adobe animate in combination with methods
-                like 3D visualization, Model animation, GCI, Drawn animation, Stop- motion
-                animation and Cutout animation.
+                is on hand for you in developing the ideal video that encompasses your vision.
+                We employ innovative technologies and tools such as Adobe After Effects, Flash,
+                Photoshop and Adobe animate in combination with methods like 3D visualization,
+                Model animation, GCI, Drawn animation, Stop- motion animation and Cutout animation.
+
 
               </p>
 
@@ -222,9 +222,9 @@
               <div class="col-xl-12 phase-m-app-title">
                 <h4> Animation services across diverse sectors
                 </h4>
-                <p> The potential of animation services are effectively employed across diverse
-                  fields, which includes healthcare, gaming, advertising and many more to
-                  enable engaging communication with the public.
+                <p> The potential of animation services are effectively employed across diverse fields,
+                  which includes healthcare, gaming, advertising and many more to enable engaging communication with the public.
+
 
                 </p>
               </div>
@@ -233,9 +233,10 @@
                 <div class="box-commn-anm">
                   <h5 class="text-left"> Health </h5>
                   <p class="text-left"> Animation services provide effective solutions for the health sector.
-                    Simplifying complex medical processes and concepts, providing
-                    demonstrations, enhancing patient understanding through proper visual
-                    communication, aiding in pharmaceutical marketing and many more.
+                    Simplifying complex medical processes and concepts, providing demonstrations, enhancing
+                    patient understanding through proper visual communication, aiding in pharmaceutical
+                    marketing and many more.
+
                   </p>
                 </div>
               </div>
@@ -244,9 +245,9 @@
                 <div class="box-commn-anm">
                   <h5 class="text-left"> Gaming </h5>
                   <p class="text-left"> Gaming sector thrives upon animation. It enables the creation of an
-                    immersive and dynamic gaming environment with intricate details; life-like
-                    characters with sharp expressive features; intense combat sequences and
-                    many more thereby enhancing player action.
+                    immersive and dynamic gaming environment with intricate details; life-like characters
+                    with sharp expressive features; intense combat sequences and many more thereby enhancing player action.
+
 
 
                   </p>
@@ -256,12 +257,12 @@
               <div class="col-xl-6 col-lg-12 col-md-12">
                 <div class="box-commn-anm">
                   <h5 class="text-left"> Entertainment </h5>
-                  <p class="text-left"> It is a well known fact that animation lies at the heart of the entertainment
-                    industry. Animated series, films, short films, music videos, the industry
-                    brims with the features of animation. The various innovative animation
-                    techniques of animation aids the entertainment industry to create
-                    interesting shows that will engage the audience, providing an immaculate
-                    experience of virtual reality.
+                  <p class="text-left"> It is a well known fact that animation lies at the heart of
+                    the entertainment industry. Animated series, films, short films, music videos,
+                    the industry brims with the features of animation. The various innovative animation
+                    techniques of animation aids the entertainment industry to create interesting shows
+                    that will engage the audience, providing an immaculate experience of virtual reality.
+
 
 
                   </p>
@@ -273,10 +274,11 @@
               <div class="col-xl-6 col-lg-12 col-md-12">
                 <div class="box-commn-anm">
                   <h5 class="text-left"> Advertisement </h5>
-                  <p class="text-left"> Animation services prove to be very advantageous in the advertising field
-                    as compelling visuals combined with the creative representation of ideas
-                    will effectively convey the messages, capture the attention of the audience,
-                    thereby leaving a lasting impression.
+                  <p class="text-left"> Animation services prove to be very advantageous in the advertising
+                    field as compelling visuals combined with the creative representation of ideas will
+                    effectively convey the messages, capture the attention of the audience, thereby leaving
+                    a lasting impression.
+
 
                   </p>
 
@@ -287,10 +289,10 @@
               <div class="col-xl-6 col-lg-12 col-md-12">
                 <div class="box-commn-anm">
                   <h5 class="text-left"> Education </h5>
-                  <p class="text-left"> Visually engaging classes tend to be more interesting and highly effective
-                    as it will help the students to grasp the concepts with ease. It aids in
-                    breaking down complex theories into graspable portions, all while
-                    maintaining their interest in the topics.
+                  <p class="text-left"> Visually engaging classes tend to be more interesting and highly
+                    effective as it will help the students to grasp the concepts with ease. It aids in breaking
+                    down complex theories into graspable portions, all while maintaining their interest in the topics.
+
 
                   </p>
 
@@ -307,18 +309,18 @@
             <div class="pdng brdr">
               <h4> Video Animation Services </h4>
 
-              <p> Our dynamic animation team is focused on creating video content that
-                aligns with your brand. Having expertise working with some of the best
-                businesses across the world, we provide the best animation services from
-                motion graphics to 3D animation. We provide comprehensive animation
-                video services which includes explainer, app, demo, live-action,
-                explanatory, corporate animations and software walkthroughs.
+              <p> Our dynamic animation team is focused on creating video content that aligns with your brand.
+                Having expertise working with some of the best businesses across the world, we provide the best
+                animation services from motion graphics to 3D animation. We provide comprehensive animation
+                video services which includes explainer, app, demo, live-action, explanatory, corporate
+                animations and software walkthroughs.
+
 
               </p>
-              <p> Experienced animators who are well versed in handling the latest tools and
-                technologies are at your service to bring your vision and idea to life. At
-                Giraf we provide integrated animation services to create visually appealing
-                videos that meet your demand, at a competitive price. </p>
+              <p> Experienced animators who are well versed in handling the latest tools and technologies
+                are at your service to bring your vision and idea to life. At Giraf we provide integrated
+                animation services to create visually appealing videos that meet your demand, at a competitive price.
+              </p>
 
             </div>
           </div>

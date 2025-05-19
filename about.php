@@ -112,16 +112,14 @@
           <!-- first -->
           <div class="col-xl-8 col-lg-5 col-md-12 about-first">
             <h6> ABOUT US </h6>
-            <h4> Stand Tall, Stand Confident, Stand Out </h4>
-            <p> We like to listen to your story, your achievements and what you want to be.
-              We wish to be a part of your journey. We are Giraf, a creative firm driven by insight,
-              innovation and ideas to ensure brand impact. Our team of creative thinkers work in unison to craft
-              ideas and contents and build a marketing strategy tailored for you. Curating impact,
-              we intend to elevate your brand to stand out in the competitive edge.
-              Giraf is committed to be the perfect partner for the bold and ambitious clients around the globe.
+            <h4> We want you to stand tall, with confidence </h4>
+            <p> At<span class="font-weight-normal"> Giraf UK</span>, we have an amazing group of creative experts driven by passion and vision,
+              dedicated to delivering the best digital marketing strategies that will elevate your brand to greater heights.
+              We evolve along with the changing trends and develop solutions tailored for your business and craft campaigns
+              that truly drive customer engagement, growth, thereby creating an impact. Giraf is committed to supporting
+              our ambitious<span class="font-weight-normal"> clients in the UK</span> to strengthen their presence and
+              amplify their brand value across the globe.
             </p>
-
-
 
           </div>
           <!-- first -->
@@ -154,14 +152,14 @@
         <div class="row box-commn">
           <!-- first -->
           <div class="col-xl-6 col-lg-12 col-md-12 why-first">
-            <h6> The Horizon of Success is Near, Not Far with Giraf. </h6>
-            <h4> We are good listeners. We come up with crazy, out of the box ideas. </h4>
+            <h6> At Giraf, We bridge vision with success </h6>
+            <h4> We are passionate at what we do, we come up with innovative ideas that spark change </h4>
             <ul>
-              <li> <i class="fas fa-grip-lines"></i> A team of experienced and highly skilled people. </li>
-              <li> <i class="fas fa-grip-lines"></i> Strategic planning and precise execution of ensuring digital success. </li>
-              <li> <i class="fas fa-grip-lines"></i> Staying Updated, Staying On the Top </li>
-              <li> <i class="fas fa-grip-lines"></i> Utilising Premium tools </li>
-              <li> <i class="fas fa-grip-lines"></i> Ensuring smooth and sustainable brand growth. </li>
+              <li> <i class="fas fa-grip-lines"></i> A team of skilled and experienced people </li>
+              <li> <i class="fas fa-grip-lines"></i> Ensuring digital success at each step through precise planning and execution of ideas </li>
+              <li> <i class="fas fa-grip-lines"></i> Staying informed and updated regarding new market trends. </li>
+              <li> <i class="fas fa-grip-lines"></i> Premium tools at our disposal. </li>
+              <li> <i class="fas fa-grip-lines"></i> Guaranteeing sustainable brand growth. </li>
             </ul>
 
           </div>
@@ -303,7 +301,11 @@
 
           <!-- col-md-8 -->
           <div class="col-xl-12 col-lg-12 col-md-12 trust-scnd">
-            <p class="text-center w-100"> For all the ambitious clients out there- we are ready to partner with you, to bring your ideas to life. </p>
+            <p class="text-center w-100"> All the ambitious minds deserve power execution of their idea,
+              that is why Giraf UK stands by our enthusiastic clients out there who are eager to ignite a change.
+
+
+            </p>
           </div>
           <!--// col-md-8 -->
 

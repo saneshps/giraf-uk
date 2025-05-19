@@ -117,10 +117,12 @@
 
           <!-- col-md-8 -->
           <div class="col-xl-8 col-lg-8 col-md-12 service-detailes-brief-scnd">
-            <p> Designing encompasses way more than just the visual elements. THoughtful
-              design builds a solid business foundation. It determines the entire outlook of a
-              company’s brand and plays a significant role in leaving a lasting impact on the
-              target audience.
+            <p> Designing encompasses way more than just the visual elements.
+              Thoughtful design builds a solid business foundation. It determines the entire
+              outlook of a company’s brand and plays a significant role in leaving a lasting
+              impact on the target audience.<span class="font-weight-normal"> At Giraf UK</span>, we design with purpose and vision,
+              creating a strong visual presence for the brands across<span class="font-weight-normal"> the UK</span>.
+
             </p>
           </div>
           <!--// col-md-8 -->
@@ -147,7 +149,7 @@
   <section class="services-list-area serv-detail">
     <div class="container">
 
-      <h2> Checkout Our Designing Services </h2>
+      <h2> Check out Our Designing Services </h2>
       <div class="row">
 
 
@@ -158,11 +160,12 @@
 
             <div class="col-xl-6 col-lg-6 col-md-12 services-list-box serv-detail-space">
               <h4> UI / UX </h4>
-              <p> UX/ User Experience design focuses on the experience and interaction of the
-                user , while UI/ User Interface Design focuses on the aesthetics and interactive
-                elements of the digital product. UX and UI focuses on the function and form of
-                the website respectively, working together to provide the user a smooth and
-                satisfying experience with the website.
+              <p> UX/ User Experience design focuses on the experience and interaction of the user ,
+                while UI/ User Interface Design focuses on the aesthetics and interactive elements
+                of the digital product. UX and UI focuses on the function and form of the website
+                respectively, working together to provide the user a smooth and satisfying experience
+                with the website.
+
 
               </p>
 
@@ -198,11 +201,10 @@
 
             <div class="col-xl-6 col-lg-6 col-md-12 services-list-box serv-detail-space">
               <h4> Web Design </h4>
-              <p> The web design should always be spot-on and apt as it will create a lasting
-                impression upon the user. Web design creation involves the planning and
-                organizing of information, along with the other visual elements to render an
-                engaging user friendly experience. At Giraf we provide top-tier web designs that
-                will make you stand out among your competitors:
+              <p>The web design should always be spot-on and apt as it will create a lasting impression upon the user.
+                Web design creation involves the planning and organizing of information, along with the other visual
+                elements to render an engaging user friendly experience.
+                At Giraf we provide top-tier web designs that will make you stand out among your competitors:
 
               </p>
 
@@ -232,13 +234,13 @@
 
             <div class="col-xl-6 col-lg-6 col-md-12 services-list-box serv-detail-space">
               <h4> Graphic Designings </h4>
-              <p> Graphic designing involves the creation of graphics and images that will
-                effectively communicate the brand identity and vision, thereby providing clear
-                information regarding the digital product.
+              <p> Graphic designing involves the creation of graphics and images that will effectively
+                communicate the brand identity and vision, thereby providing clear information regarding
+                the digital product.
+
 
               </p>
-              <p> At Giraf our ambitious designers are dedicated to provide you with the best
-                designing services. </p>
+              <p> At Giraf our ambitious designers are dedicated to provide you with the best designing services. </p>
 
               <ul class="services-list-ul">
                 <li><a> <i class="fas fa-long-arrow-alt-right"></i> Logo Designs </a> </li>
@@ -271,11 +273,10 @@
 
             <div class="col-xl-6 col-lg-6 col-md-12 services-list-box serv-detail-space">
               <h4> Brand Identity </h4>
-              <p> Brand identity focuses on how a company presents its brand to the world and
-                how the customers and target audience perceive it. It combines the abstract and
-                concrete components of a company’s product. </p>
-              <p> Giraf aims to mold a unique brand identity that will set you apart from the
-                competitors. </p>
+              <p> Brand identity focuses on how a company presents its brand to the world and how the customers and
+                target audience perceive it. It combines the abstract and concrete components of a company’s product.
+              </p>
+              <p>Giraf aims to mold a unique brand identity that will set you apart from the competitors. </p>
               <ul class="services-list-ul">
                 <li><a> <i class="fas fa-long-arrow-alt-right"></i> Logo Design </a> </li>
                 <li><a> <i class="fas fa-long-arrow-alt-right"></i> Guide for Branding </a> </li>

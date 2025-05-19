@@ -113,8 +113,8 @@
 
           <!-- col-md-8 -->
           <div class="col-xl-8 col-lg-8 col-md-12 services-text-scnd">
-            <p> We are the digital marketing pros- we set new trends, we set new
-              standards. And with us, success is the only outcome.
+            <p> We are the digital marketing pros- we set new trends,
+              we set new standards. And with us, success is the only outcome.
             </p>
           </div>
           <!--// col-md-8 -->
@@ -138,7 +138,7 @@
   <section class="services-list-area serv-detail">
     <div class="container">
 
-      <h2> The orbit of digital marketing </h2>
+      <h2> The orbit of digital marketing in UK </h2>
       <div class="row">
         <div class="col-xl-12 col-lg-12 col-md-12 services-list">
           <div class="row box-commn">
@@ -150,9 +150,9 @@
                   <h3> 01 </h3>
                   <h2> Digital Marketing </h2>
 
-                  <p> As the world is transitioning into the digital realm, “online” has now become the
-                    new standard. Day to day activities and fundamentals have moved online, which
-                    includes communication, banking, shopping, education and many more... </p>
+                  <p> As the world is transitioning into the digital realm, “online” has now become the new standard.
+                    Day to day activities and fundamentals have moved online, which includes communication,
+                    banking, shopping, education and many more.... </p>
                   <span href="digital-marketing.php"> View More ... </span>
                 </a>
               </div>
@@ -166,8 +166,11 @@
                   <h3> 02 </h3>
                   <h2> Branding </h2>
 
-                  <p> A brand defines the essence of a company. It is that distinctive presence that
-                    sets apart companies from the faced paced competitive field...</p>
+                  <p> A brand defines the essence of a company. It is that distinctive presence
+                    that sets apart companies from the faced paced competitive field. A well developed branding
+                    includes a unique visually appealing logo that is created using the right font and colour palette...
+
+                  </p>
                   <span href="branding.php"> View More ... </span>
                 </a>
               </div>
@@ -180,10 +183,10 @@
                 <a href="designing.php">
                   <h3> 03 </h3>
                   <h2> Designing </h2>
-                  <p> Designing encompasses way more than just the visual elements. THoughtful
-                    design builds a solid business foundation. It determines the entire outlook of a
-                    company’s brand and plays a significant role in leaving a lasting impact on the
-                    target audience... </p>
+                  <p> Designing encompasses way more than just the visual elements.
+                    Thoughtful design builds a solid business foundation. It determines the entire outlook
+                    of a company’s brand and plays a significant role in leaving a lasting impact on the target audience....
+                  </p>
                   <span href="designing.php"> View More ... </span>
                 </a>
               </div>
@@ -197,10 +200,11 @@
                   <h3> 04 </h3>
                   <h2> Web and App Development</h2>
 
-                  <p> A compelling digital presence is crucial for any business to succeed in
-                    today’s connected world and a well organised website anchors that
-                    presence . Web and app development is the process of developing
-                    websites that are informative... </p>
+                  <p> A compelling digital presence is crucial for any business to succeed in today’s connected
+                    world and a well organised website anchors that presence . Web and app development is the
+                    process of developing websites that are informative...
+
+                  </p>
                   <span href="web-and-app-development.php"> View More ... </span>
                 </a>
               </div>
@@ -213,9 +217,9 @@
                 <a href="photography-and-video-production.php">
                   <h3> 05 </h3>
                   <h2> Product Explanatory Videos </h2>
-                  <p> In this digital age, where information is just one click away, retaining the interest
-                    of the audience has become quite a challenging task. Visual medium has a clear
-                    influence over people...
+                  <p> In this digital age, where information is just one click away, retaining the interest of
+                    the audience has become quite a challenging task. Visual medium has a clear influence over people....
+
                   </p>
                   <span href="photography-and-video-production.php"> View More ... </span>
                 </a>
@@ -229,9 +233,10 @@
                 <a href="animation.php">
                   <h3> 06 </h3>
                   <h2> Animation </h2>
-                  <p> From hand drawn frames to innovative digital technologies, animation has
-                    taken a giant leap. Custom animated videos have proven to be effective in
-                    helping businesses in brand promotion, leading to a visible growth in sales... </p>
+                  <p> From hand drawn frames to innovative digital technologies,
+                    animation has taken a giant leap. Custom animated videos have proven to be effective
+                    in helping businesses in brand promotion, leading to a visible growth in sales....
+                  </p>
                   <span href="animation.php"> View More ... </span>
                 </a>
               </div>
@@ -288,9 +293,8 @@
 
           <!-- col-md-8 -->
           <div class="col-xl-8 col-lg-8 col-md-12 benifits-scnd">
-            <p> Creative, ambitious, passionate and vision driven. Built brick by brick, we
-              play to win- we win together. We walk beside you, not just today, but
-              always.
+            <p> Creative, ambitious, passionate and vision driven. Built brick by brick,
+              we play to win- we win together. We walk beside you, not just today, but always.
             </p>
 
           </div>
@@ -315,21 +319,16 @@
               <div class="accordion">
                 <input type="radio" name="radacc" class="accordian-chk" checked />
                 <h4 class="accordian-header active">
-                  Premium Quality Services
+                  Top-tier services
                   <span class="acc-icon"></span>
                 </h4>
                 <div class="accordian-content" tabindex="2">
 
                   <p>
-                    What makes us stand tall?
-                    An efficient team with high expertise in delivering exceptional solutions thereby exceeding clients'
-                    expectations.
-                    This quality of service makes us stand tall among our competitors.
-                    Only an expert team and the best technology can result in quality services. Any doubt? The
-                    innovative and creative
-                    service we provide is unparalleled. Offers a quality-oriented service, so we can achieve and exceed
-                    our customer
-                    satisfaction.
+                    Our creative team is driven by passion and the pursuit to succeed. We are great at
+                    what we do and we want you to achieve great heights. We offer the best digital marketing solutions that will
+                    help your business to drive growth and excel in the competitive field.
+                    We are at the service of our ambitious clients in the UK, who are ready to take risks to chase their dreams.
 
                   </p>
 
@@ -340,17 +339,14 @@
               <div class="accordion">
                 <input type="radio" name="radacc" class="accordian-chk" />
                 <h4 class="accordian-header">
-                  All-inclusive agency
+                  A complete 360 coverage of digital marketing
                   <span class="acc-icon"></span>
                 </h4>
                 <div class="accordian-content">
                   <p>
-                    A gamut of Digital Services Under One Roof. All digital marketing services required are on our
-                    list from conceptualizing your website to promoting it on the internet.
-                    Extensive range of services offered by an all-encompassing digital marketing firm. A wide range of
-                    services includes
-                    Branding, Designing, Web and App Development, Digital Marketing, Photography, Video Production,
-                    Animation, etc.
+                    We complete the circle of digital marketing. We provide comprehensive solutions which include,
+                    Branding, Designing, Web and App development, Digital marketing, Video production and Animation.
+
 
                   </p>
                 </div>
@@ -359,49 +355,23 @@
               <div class="accordion">
                 <input type="radio" name="radacc" class="accordian-chk" />
                 <h4 class="accordian-header">
-                  Better return on investment (Worth Every Penny)
+                  Enhanced investment outcome
                   <span class="acc-icon"></span>
                 </h4>
                 <div class="accordian-content">
+                  <p> We stand out, because we offer the best digital marketing solutions at competitive prices.
+                    Whether it's a startup or small business, effective digital marketing strategies are essential
+                    to build a strong foundation. Our creative team has proven expertise working with ambitious
+                    clients across europe. We guarantee nothing short of success.
 
-                  <p> Less Investment
-                    Greater Return </p>
-                  <p>
-                    Help your business in saving money on promotions. All our digital marketing,
-                    web development, and designing service packages are offered at competitive
-                    prices at your comfort. Our professionals leave no stone unturned to ensure
-                    good returns from every money you have invested with us.
                   </p>
-                  <p> Standing tall among your competitors is no longer expensive. Whether it’s a
-                    small business or a start-up, digital marketing is an affordable and easy method of promotion.
-                    Provides tailor-made solutions that will help you stand and stay tall always within your budget.</p>
+                  <p>Digital marketing is cost-effective and efficient compared to traditional marketing.
+                    Retargeting is made simple, which will gradually convert visitors to customers in real time.
+                    The effectiveness of the digital marketing strategies are evaluated and necessary changes
+                    are made to align with the evolving trends. At Giraf we optimize these strategies to increase
+                    the return of investment and drive revenue growth, making sure that your investment
+                    in digital marketing delivers the result that you expect.
 
-                  <p> Unlike traditional marketing, digital marketing is more targeted and this makes it more
-                    cost-effective.
-                    Retargeting is made easy and helps increase conversion rates in real time. You can continually
-                    evaluate
-                    how and if it is working affordably.</p>
-
-                  <p> Digital marketing has low-cost content and Customer Engagement.
-                    Without exerting too much spending power, digital marketing experts increase brand awareness
-                    through beautiful and the simplest means,</p>
-                </div>
-              </div>
-
-
-              <div class="accordion">
-                <input type="radio" name="radacc" class="accordian-chk" />
-                <h4 class="accordian-header">
-                  Shipshape Strategy / Strategic planning
-                  <span class="acc-icon"></span>
-                </h4>
-                <div class="accordian-content">
-                  <p>
-                    Our strategy is simple, trimmed, and neat. Understand the client’s objectives and customize
-                    solutions.
-                    Our hunger for achievement makes your business graph reach new heights. Defines strategy,
-                    shows you the direction and helps in making decisions on allocating its ideas to attain
-                    strategic goals.
                   </p>
                 </div>
               </div>
@@ -410,21 +380,15 @@
               <div class="accordion">
                 <input type="radio" name="radacc" class="accordian-chk" />
                 <h4 class="accordian-header">
-                  Finest Customer service and Support
+                  Strategic planning
                   <span class="acc-icon"></span>
                 </h4>
                 <div class="accordian-content">
-                  <p>
-                    “Just a ring away” <br>
-                    We are always available for you, be it any queries on services or packages, to discuss new projects,
-                    or to know the status of an ongoing project. We never leave any stone unturned in supporting and
-                    guiding our customers.
+                  <p> Nothing can beat the efficiency of strategic planning. At Giraf we completely understand
+                    our client’s vision and tailor the best framework to improve brand value. We are right beside you,
+                    working hand-in-hand to help to achieve great heights.
 
                   </p>
-
-                  <p> Make queries at your convenience, regarding our services & packages, discuss new projects,
-                    for asking about the status of an ongoing project, or do anything you want to know about
-                    digital marketing.</p>
                 </div>
               </div>
 
@@ -432,15 +396,33 @@
               <div class="accordion">
                 <input type="radio" name="radacc" class="accordian-chk" />
                 <h4 class="accordian-header">
-                  Results Oriented
+                  Full time customer service
+                  <span class="acc-icon"></span>
+                </h4>
+                <div class="accordian-content">
+                  <p> Our clients are our top priority. We are always at your call to answer your
+                    queries about our services, packages or a brief discussion about a new startup or
+                    evaluating the progress of your on-going business. We are at your service to provide
+                    you with all the information regarding digital marketing and guide you through all
+                    stages with clarity.
+                  </p>
+                </div>
+              </div>
+
+
+              <div class="accordion">
+                <input type="radio" name="radacc" class="accordian-chk" />
+                <h4 class="accordian-header">
+                  Result driven
                   <span class="acc-icon"></span>
                 </h4>
                 <div class="accordian-content">
                   <p>
-                    We are all driven by results. We recognize our clients as individuals. We understand
-                    and focus on our client's specific business goals and implement strategies on the best
-                    way to achieve them online. Increased Traffic, Engagement, and growth on clients'
-                    platforms, that is what focused on.
+                    Yes, we work to see the results surface! We are as competitive and passionate as our clients,
+                    hence we aim to deliver nothing short of success. We offer optimized solutions that will
+                    lead to increased traffic, customer engagement, thereby ranking your website at the
+                    top search result.
+
                   </p>
                 </div>
               </div>

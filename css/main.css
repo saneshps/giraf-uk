@@ -3816,6 +3816,8 @@ h2 {
   position: relative;
   margin: 0 0 13px 0;
   padding: 0 20px 0 0;
+  border: 1px solid #ccc;
+  border-radius: 4px;
 }
 .benifits-area .benifits-faq-section .benifits-faq-box .accordian-chk {
   width: 100%;

@@ -106,8 +106,8 @@
 
           <!-- col-md-8 -->
           <div class="col-xl-8 col-lg-8 col-md-12 service-detailes-brief-scnd">
-            <p> “Experience seamless web and app development like never before.
-              Empower your business to reach new heights and reap the benefits of a competitive advantage.”
+            <p> Functionality at its best. Experience web and app development services that
+              empower your business to assert its presence in the competitive realm.
             </p>
           </div>
           <!--// col-md-8 -->
@@ -144,15 +144,18 @@
 
           <!-- col-md-12 -->
           <div class="col-md-12 service-detailes-brief-scnd flex-column align-items-start">
-            <p> A compelling digital presence is crucial for any business to succeed in
-              today’s connected world and a well organised website anchors that
-              presence . Web and app development is the process of developing
-              websites that are informative, customer engaging all while consistently
-              upholding the standards. </p>
+            <p> A compelling digital presence is crucial for any business to succeed in today’s
+              connected world and a well organised website anchors that presence . Web and app
+              development is the process of developing websites that are informative, customer
+              engaging all while consistently upholding the standards.
+
+            </p>
             <p> It entails a range of processes which includes content creation, designing,
-              coding, understanding the user intent and optimizing web pages for
-              enhanced performance. It will increase the popularity of brand image,
-              thereby converting website visitors to potential customers. </p>
+              coding, understanding the user intent and optimizing web pages for enhanced performance.
+              It will increase the popularity of brand image, thereby converting website visitors to potential customers.
+
+            </p>
+            <p> At Giraf, we provide app solutions that will enhance the business growth in the UK and beyond.</p>
           </div>
           <!--// col-md-12 -->
 
@@ -182,7 +185,7 @@
           <div class="row box-commn justify-content-space-evenly">
 
             <div class="col-xl-6 col-lg-6 col-md-12 services-list-box serv-detail-space serv-detail-flex">
-              <h2> Unicorns after unicorns, Giraf outputs top of the line app development. </h2>
+              <h2> Building on the streak of brilliance, Giraf excels in the field of app development. </h2>
 
             </div>
             <div class="col-xl-6 col-lg-6 col-md-12 services-list-box serv-detail-space">
@@ -205,21 +208,21 @@
 
             <div class="col-xl-6 col-lg-6 col-md-12 services-list-box serv-detail-space serv-detail-flex">
               <h4> Front and Back End Web Development </h4>
-              <p> Front end of a website is everything that the users directly interact with,
-                texts, images, videos and the like. Here the visual structuring of the website
-                is done. The tech suite that the front end employs include the following
-                HTML, which creates and organizes the content on the website; CSS that
-                styles the webpage web; JAVA script, which makes the content dynamic
-                and interactive. The front end ensures the smooth functioning of the
-                website, rendering a user -friendly experience. </p>
-              <p> The back end manages the core process of the website.It handles
-                server-side tasks such as data processing and management, storing the
-                information, enabling the efficient operation of the front end. Back end uses
-                a variety of technologies which include programming languages such as
-                PHP, Python and C++; databases like MySQL; servers like Apache,Nginx
-                and frameworks like Django,Spring Boot etc. </p>
-              <p>Both front and back end development works together in giving soul to the
-                website creating an engaging and interactive digital experience. </p>
+              <p> Front end of a website is everything that the users directly interact with, texts,
+                images, videos and the like. Here the visual structuring of the website is done.
+                The tech suite that the front end employs include the following HTML,
+                which creates and organizes the content on the website; CSS that styles the webpage web;
+                JAVA script, which makes the content dynamic and interactive. The front end ensures the
+                smooth functioning of the website, rendering a user -friendly experience.
+              </p>
+              <p> The back end manages the core process of the website.It handles server-side tasks
+                such as data processing and management, storing the information, enabling the efficient
+                operation of the front end. Back end uses a variety of technologies which include programming
+                languages such as PHP, Python and C++; databases like MySQL; servers like Apache,Nginx and
+                frameworks like Django,Spring Boot etc.
+
+              </p>
+              <p>Both front and back end development works together in giving soul to the website creating an engaging and interactive digital experience. </p>
 
             </div>
 
@@ -235,10 +238,10 @@
 
             <div class="col-xl-6 col-lg-6 col-md-12 services-list-box serv-detail-space serv-detail-flex">
               <h4> Mobile App Development </h4>
-              <p> Mobile app development is the building of software applications that run on
-                mobile phones, tablets and similar portable devices. It primarily focuses on
-                IOS and Android operating systems. It uses programming languages such
-                as Python, HTML5, Swift and JAVA.
+              <p> Mobile app development is the building of software applications that run on mobile phones,
+                tablets and similar portable devices. It primarily focuses on IOS and Android operating systems.
+                It uses programming languages such as Python, HTML5, Swift and JAVA.
+
               </p>
 
 
@@ -254,10 +257,10 @@
             <div class="col-xl-6 col-lg-6 col-md-12">
               <div class="box-commn-mbl">
                 <h5 class="text-left"> 1. Ideation </h5>
-                <p class="text-left"> The brainstorming phase is where the objective of creating the mobile
-                  app is outlined. Various factors such as understanding the user intent,
-                  creation of quality content and focusing on the target market and the
-                  competitive edge is done.
+                <p class="text-left"> The brainstorming phase is where the objective of creating the
+                  mobile app is outlined. Various factors such as understanding the user intent,
+                  creation of quality content and focusing on the target market and the competitive edge is done.
+
 
                 </p>
               </div>
@@ -267,9 +270,9 @@
               <div class="box-commn-mbl">
                 <h5 class="text-left"> 2. Strategic planning </h5>
                 <p class="text-left"> The developing team will decide upon the important aspects such as
-                  the type of mobile app, the resources, the platform, technologies and
-                  tools to be employed, the development and the tentative date for
-                  launching the app.
+                  the type of mobile app, the resources, the platform, technologies and tools to be employed,
+                  the development and the tentative date for launching the app.
+
 
                 </p>
               </div>
@@ -278,11 +281,10 @@
             <div class="col-xl-6 col-lg-6 col-md-12">
               <div class="box-commn-mbl">
                 <h5 class="text-left"> 3. Designing </h5>
-                <p class="text-left"> The process of creating the overall outlook of the app begins in this
-                  phase. It includes the visual aesthetics, the various other features
-                  and functioning of the app. It starts with the basic mockup, moving
-                  through various developmental stages and gradually transitioning to
-                  the detailed final version.
+                <p class="text-left"> The process of creating the overall outlook of the app begins in this phase.
+                  It includes the visual aesthetics, the various other features and functioning of the app.
+                  It starts with the basic mockup, moving through various developmental stages and gradually
+                  transitioning to the detailed final version.
 
                 </p>
               </div>
@@ -293,9 +295,9 @@
             <div class="col-xl-6 col-lg-6 col-md-12">
               <div class="box-commn-mbl">
                 <h5 class="text-left"> 4. Development </h5>
-                <p class="text-left"> The actual creation of the app takes place in this phase. Coding, front
-                  and back end development, APIs, leading to the development of the
-                  app in all its senses.
+                <p class="text-left"> The actual creation of the app takes place in this phase. Coding,
+                  front and back end development, APIs, leading to the development of the app in all its senses.
+
 
                 </p>
 
@@ -306,9 +308,9 @@
             <div class="col-xl-6 col-lg-6 col-md-12">
               <div class="box-commn-mbl">
                 <h5 class="text-left"> 5. App assessment </h5>
-                <p class="text-left"> It is the phase where quality tests are conducted to evaluate the
-                  overall performance of the app. Its security features and operational
-                  stability are assessed, thereby ruling out possible errors. </p>
+                <p class="text-left"> It is the phase where quality tests are conducted to evaluate the overall
+                  performance of the app. Its security features and operational stability are assessed, thereby ruling out possible errors
+                </p>
 
               </div>
             </div>
@@ -318,10 +320,10 @@
               <div class="box-commn-mbl">
 
                 <h5 class="text-left"> 6. Custom CMS for Rapid n Scale </h5>
-                <p class="text-left"> At Giraf we provide a custom content management system that
-                  ensures effective content management, enhanced user experience,
-                  SEO optimization, thereby driving the growth of your brand and
-                  improving search engine ranking.
+                <p class="text-left"> At Giraf we provide a custom content management system that ensures
+                  effective content management, enhanced user experience, SEO optimization, thereby driving
+                  the growth of your brand and improving search engine ranking.
+
                 </p>
               </div>
             </div>
@@ -378,10 +380,10 @@
         <div class="col-xl-4" data-aos="fade-right" data-aos-duration="2000">
           <div class="individualy-box">
             <h4> Individually to stand out </h4>
-            <p> The mobile apps thus developed can be pre-installed, downloaded from
-              app stores or directly accessed through web browsers. This wide
-              accessibility allows the customers to directly avail the services on their
-              devices.
+            <p> The mobile apps thus developed can be pre-installed, downloaded from app
+              stores or directly accessed through web browsers. This wide accessibility
+              allows the customers to directly avail the services on their devices.
+
             </p>
           </div>
         </div>
@@ -391,13 +393,13 @@
         <div class="col-xl-8" data-aos="fade-right" data-aos-duration="2000">
           <div class="individualy-box">
             <h4> Why Android and IOS Development matters </h4>
-            <p> Android is one of the dominant mobile operating systems globally, which
-              makes up almost 75% of the smartphones. As the google playstore is
-              teeming with a variety of mobile applications, the scenario calls for the
-              development of not just any app, but the best, innovative and reliable ones
-              that surpasses mediocrity. IOS requires a unique strategic approach. Giraf
-              is your destination for creating the right application with the support of our
-              app developing team.
+            <p> Android is one of the dominant mobile operating systems globally,
+              which makes up almost 75% of the smartphones. As the google playstore is teeming
+              with a variety of mobile applications, the scenario calls for the development
+              of not just any app, but the best, innovative and reliable ones that surpasses mediocrity.
+              IOS requires a unique strategic approach. Giraf is your destination for creating the
+              right application with the support of our app developing team.
+
             </p>
           </div>
         </div>

@@ -182,7 +182,7 @@ $result = $conn->query($sql);
           <!-- col-md-4 -->
           <div class="col-xl-5 col-lg-6 col-md-12 about-home-first">
             <h6> ABOUT US </h6>
-            <h4> We are the dynamic team committed to creating brand impact. </h4>
+            <h4> We are a dynamic team committed to creating brand impact. </h4>
 
           </div>
           <!--// col-md-4 -->
@@ -190,11 +190,10 @@ $result = $conn->query($sql);
 
           <!-- col-md-8 -->
           <div class="col-xl-4 col-lg-3 col-md-12 about-home-scnd">
-            <p> At Giraf we have an amazing group of creative experts driven by passion and vision,
-              dedicated to delivering the best digital marketing strategies that will elevate your brand
-              to greater heights. We keep in pace with the evolving trends and develop solutions
-              tailored for your business. Giraf is committed to supporting our ambitious clients across
-              the globe to strengthen their presence and amplify their brand value. </p>
+            <p> At <span class="font-weight-normal"> Giraf UK</span> , we have an amazing group of creative experts driven by passion and vision,
+              dedicated to delivering the best digital marketing strategies
+              that will elevate your brand to greater heights
+            </p>
           </div>
           <!--// col-md-8 -->
 
@@ -254,9 +253,13 @@ $result = $conn->query($sql);
 
           <!-- col-md-8 -->
           <div class="col-xl-8 col-lg-8 col-md-12 about-home-scnd">
-            <p> Creative strategies combined with systematic approach. Yes, our brand impact
-              surpasses client expectations. Strategic thinking that led to sustained growth, brands
-              that stood out in excellence. </p>
+            <p> Creative strategies combined with systematic approach.
+              Yes, our brand impact surpasses client expectations. Strategic thinking that led to sustained growth,
+              brands that stood out in excellence. Giraf UK,
+              provides services that are designed for the UK market.
+
+            </p>
+
 
           </div>
           <!--// col-md-8 -->
@@ -377,9 +380,7 @@ $result = $conn->query($sql);
 
             <!-- col-md-8 -->
             <div class="col-xl-8 col-lg-10 col-md-10 col-xs-12 mx-auto portfolio-p">
-              <p> We craft our projects in accordance with the vision of our clients. Click below to see
-                more of our successful works.
-              </p>
+              <p> We craft our projects in accordance with the vision of our clients. Click below to see more of our successful works. </p>
             </div>
             <!--// col-md-8 -->
 
@@ -649,9 +650,10 @@ $result = $conn->query($sql);
 
           <!-- col-md-8 -->
           <div class="col-xl-8 col-lg-8 col-md-12 blogs-home-scnd">
-            <p> In this fast paced world, to keep up with the change is the real test of time. We stay
-              updated and informed regarding ever evolving trends of digital marketing and adapt to
-              the innovations. We walk you through it. Check this page for more updates. </p>
+            <p> In this fast paced world, to keep up with the change is the real test of time.
+              We stay updated and informed regarding ever evolving trends of digital marketing
+              and adapt to the innovations. We walk you through it. Check this page for more updates.
+            </p>
           </div>
           <!--// col-md-8 -->
 

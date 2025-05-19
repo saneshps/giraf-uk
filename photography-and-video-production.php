@@ -119,12 +119,11 @@
 
           <!-- col-md-8 -->
           <div class="col-xl-8 col-lg-8 col-md-12 service-detailes-brief-scnd">
-            <p> "One size fits all" doesn't work in web designing. Each customer is different and their
-              approach to business too. That's where we become your web designing partner and create
-              customized websites.
-              “Craft your ideas with us”
-              Our clients consider us as one of the top Web Developers
-              because we have a team who got hands-on experience.</p>
+            <p> Each brand will have a unique story to narrate and we are here to aid you
+              in crafting your vision and objective into a visual excellence. Having hands-on experience,
+              we create the ideal visuals that will leave a lasting impression upon your customers.
+
+            </p>
           </div>
           <!--// col-md-8 -->
 
@@ -160,15 +159,16 @@
 
             <h4> Photography and Video Production </h4>
             <p> In this digital age, where information is just one click away, retaining the interest
-              of the audience has become quite a challenging task. Visual medium has a clear
-              influence over people. Quality video production and photography contributes a
-              great deal to it. Businesses should come up with innovative strategies to narrate
-              their brand story. This can be achieved through the effective and efficient
-              utilization of photography and video production.
+              of the audience has become quite a challenging task. Visual medium has a clear influence over people.
+              Quality video production and photography contributes a great deal to it. Businesses should come up
+              with innovative strategies to narrate their brand story. This can be achieved through the effective
+              and efficient utilization of photography and video production.
+
             </p>
-            <p>That being said, the quality of the images and visuals are a non-negotiable factor.
-              Here at Giraf we are committed to produce quality videos and photographs that
-              will create a lasting impression upon our clients and customers alike. </p>
+            <p> That being said, the quality of the images and visuals are a non-negotiable factor.
+              Giraf UK is committed to produce quality videos and photographs that will create a lasting
+              impression upon our clients and customers alike, across the countries.
+            </p>
 
           </div>
         </div>
@@ -202,9 +202,9 @@
         <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12">
           <div class="photography-sub-title">
             <h4>You lead the way </h4>
-            <p> At Giraf we are all the ears to listen to your vision and expectations. Our
-              videographers are just as passionate about you and are keen in handling
-              subtleties.
+            <p> At Giraf we are all the ears to listen to your vision and expectations.
+              Our videographers are just as passionate about you and are keen in handling subtleties.
+
 
             </p>
           </div>
@@ -220,8 +220,7 @@
         <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12">
           <div class="photography-sub-title">
             <h4> Reliable Brand </h4>
-            <p> Our aim is to forge brands that are reliable and real, building trust between our
-              clients and their target audience. </p>
+            <p> Our aim is to forge brands that are reliable and real, building trust between our clients and their target audience.</p>
           </div>
         </div>
 
@@ -229,8 +228,9 @@
         <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12">
           <div class="photography-sub-title">
             <h4> Intricate </h4>
-            <p> Photography and videography productions demand keen attention to detail. We
-              capture subtleties and instill them with dynamic essence, yes that's how we work!
+            <p> Photography and videography productions demand keen attention to detail.
+              We capture subtleties and instill them with dynamic essence, yes that's how we work!
+
             </p>
           </div>
         </div>
@@ -240,6 +240,7 @@
             <h4> Let the visuals speak </h4>
             <p> A well developed video will convey more than what written descriptions can.
               Hence we create videos that hook the audience and engage their attention.
+
             </p>
           </div>
         </div>
@@ -247,9 +248,10 @@
         <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12">
           <div class="photography-sub-title">
             <h4> Let your presence do the talking </h4>
-            <p> Visuals, images and videos have a unique way of communicating concepts. If
-              done in the right way it can spark an interest within your target audience and
-              anchor your presence in the competitive edge.
+            <p> Visuals, images and videos have a unique way of communicating concepts.
+              If done in the right way it can spark an interest within your target audience
+              and anchor your presence in the competitive edge.
+
             </p>
           </div>
         </div>
@@ -267,14 +269,16 @@
           <div class="photography-head-content">
 
             <h4>Product Photography </h4>
-            <p> Corporate photography is the core of the business. A detailed photograph of your
-              product can increase its sales drive. The photographs of the product taken from
-              different angles will give the customers a detailed insight into its dimensions.
+            <p> Corporate photography is the core of the business.
+              A detailed photograph of your product can increase its sales drive.
+              The photographs of the product taken from different angles will give
+              the customers a detailed insight into its dimensions.
+
 
             </p>
-            <p> At Giraf we focus on creating high quality corporate photography that will
-              encourage your customers to explore further, thereby landing a click on your
-              website.
+            <p> We focus on creating high quality corporate photography that will encourage your customers
+              to explore further, thereby landing a click on your website.
+
 
             </p>
           </div>
@@ -288,14 +292,13 @@
 
             <h4> Motion Graphics </h4>
             <p> Motion graphics brings that dynamics to your product by effectively breaking
-              down its intricacies and presenting it in a way that strikes a chord with the
-              customers. By combining the visual elements and movements , motion graphics
-              will create compelling narratives that will guide the users through your product
-              specifications.
+              down its intricacies and presenting it in a way that strikes a chord with the customers.
+              By combining the visual elements and movements , motion graphics will create compelling
+              narratives that will guide the users through your product specifications.
+
 
             </p>
-            <p> At Giraf our dynamic graphics team will set the design elements in motion, cost
-              effectively. </p>
+            <p> Our dynamic graphics team will set the design elements in motion, cost effectively. </p>
           </div>
         </div>
         <div class="col-xl-3 col-lg-6 col-md-12 col-sm-12">
@@ -315,12 +318,12 @@
 
             <h4> Product Videos </h4>
             <p> A well detailed product video should be engaging and inclusive of all the details
-              regarding your digital asset. That video should be able to provide your
-              customers with precise information related to your product.
+              regarding your digital asset. That video should be able to provide your customers
+              with precise information related to your product.
+
 
             </p>
-            <p> We are by your side to create the accurate product video that entails the proper
-              demonstration of your product. </p>
+            <p> We are by your side to create the accurate product video that entails the proper demonstration of your product. </p>
           </div>
         </div>
       </div>
@@ -331,13 +334,14 @@
           <div class="photography-head-content">
 
             <h4> Video Ad campaigns </h4>
-            <p> Advertising drives the world, it shapes our choices. It is as clear as day light that
-              the real challenge is not just to show up, but to stand out among the crowd.
-              Therefore asserting your unique voice requires innovative strategies to capture
-              the attention of your customers. Video Ad campaigns are the perfect medium that
-              can help you achieve your target goals. </p>
-            <p> At Giraf we develop premium video ad campaigns that combine tactful narrative
-              techniques and visual elements to promote your product. </p>
+            <p>Advertising drives the world, it shapes our choices. It is as clear as day light that the
+              real challenge is not just to show up, but to stand out among the crowd. Therefore asserting
+              your unique voice requires innovative strategies to capture the attention of your customers.
+              Video Ad campaigns are the perfect medium that can help you achieve your target goals
+            </p>
+            <p> At Giraf we develop premium video ad campaigns that combine tactful narrative techniques and visual
+              elements to promote your product effectively in the UK market
+            </p>
           </div>
         </div>
         <div class="col-xl-3 col-lg-6 col-md-12 col-sm-12">

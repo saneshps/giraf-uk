@@ -111,29 +111,21 @@
           <!-- col-md-4 -->
           <div class="col-xl-4 col-lg-4 col-md-12 service-detailes-brief-first">
             <h6> Branding </h6>
-            <h4> Giving Your Business
-              Some Great Ideas </h4>
+            <h4> Ideas that define your business </h4>
           </div>
           <!--// col-md-4 -->
 
 
           <!-- col-md-8 -->
           <div class="col-xl-8 col-lg-8 col-md-12 service-detailes-brief-scnd">
-            <p> “I Am going to tell a real story and Let’s start with my name”
-              “Brand is like a sprout from your reputation”
-              Branding brings trust, confidence, and assurance to your customers. In today’s world,
-              customers prefer to choose known brands since it automatically associates with quality and
-              durability rather than what is paid for it.
+            <p> A brand defines the character of your business. A well developed brand sets the unique
+              identity of a business venture. It builds trust, assurance and loyalty between you
+              and your customers. To create a brand that the customers would choose without thinking twice.
+              To achieve that you should be able to stand out in the competitive sphere. Giraf brings
+              your branding ideas into life with purpose and finesse. Now proudly based in <span class="font-weight-normal"> the UK</span>,
+              we are eager to work alongside our clients in the region to help them achieve
+              their business goals.
 
-              Create a Brand Identity that makes our target customers choose our product or service without
-              a second thought. A brand Identity that can be trusted. A brand where there are only loyal customers.
-              A brand that the whole nation sings.
-
-              Build an online brand identity that can be expressed on virtually any digital channel,
-              like your website, social media profiles, digital ads, and content marketing by using digital assets,
-              this process is called digital branding.
-
-              Come on, let’s start working on it!
             </p>
           </div>
           <!--// col-md-8 -->
@@ -163,20 +155,21 @@
           <div class="col-xl-12 mb-4">
             <h4> Branding </h4>
 
-            <p> A brand defines the essence of a company. It is that distinctive presence that
-              sets apart companies from the faced paced competitive field. A well developed
-              branding includes a unique visually appealing logo that is created using the right
-              font and colour palette, an accurate brand narrative that entails the vision of the
-              company, come up with a catchy business name and utilising high quality images
-              and videos to highlight the brand. This is not a mechanical process that should
-              be done for the sake of doing so. Rather it is an art of crafting a unique business
-              story and rendering it in tangible form that will strike a chord with the target
-              audience.
+            <p> A brand defines the essence of a company. It is that distinctive presence that sets apart
+              companies from the faced paced competitive field. A well developed branding includes
+              a unique visually appealing logo that is created using the right font and colour palette,
+              an accurate brand narrative that entails the vision of the company, come up with a
+              catchy business name and utilising high quality images and videos to highlight the brand.
+              This is not a mechanical process that should be done for the sake of doing so.
+              Rather it is an art of crafting a unique business story and rendering it in
+              tangible form that will strike a chord with the target audience.
+
 
             </p>
-            <p> We would love to stand by your side and help you develop your brand identity
-              that can be shared across diverse digital platforms such as social media, digital
-              ads, websites, thereby expanding your enterprise. </p>
+            <p> We would love to stand by your side and help you develop your brand identity that
+              can be shared across diverse digital platforms such as social media, digital ads,
+              websites, thereby expanding your enterprise.
+            </p>
 
             <h4> Developing Strong Brands to Unleash Your Value </h4>
 
@@ -193,32 +186,33 @@
             <h4 class="clr"> Our Services </h4>
 
             <h4 class="mb-3"> Logo Design </h4>
-            <p> There are countless logos out there, but some just stand out, right? That mark
-              right there, that's where we aim to get you to. Logo is the fusion of a company’s
-              wordmark and a graphic symbol that represents the entire business. Having the
-              target audience in mind while designing a logo will make the process more
-              meaningful and purposeful.
+            <p> There are countless logos out there, but some just stand out, right? That mark right there,
+              that's where we aim to get you to. Logo is the fusion of a company’s wordmark and a graphic
+              symbol that represents the entire business. Having the target audience in mind while designing
+              a logo will make the process more meaningful and purposeful.
+
             </p>
             <p> At Giraf we intend to co-create with you a logo that aligns with your vision and
-              brand story enabling a meaningful connection with your customer. If you need to
-              define your brand or create a whole new brand identity all together, which
-              includes company logo, strapeline, typography, colour palette and brand voice.
+              brand story enabling a meaningful connection with your customer. If you need to define
+              your brand or create a whole new brand identity all together, which includes company logo,
+              strapeline, typography, colour palette and brand voice.
+
 
             </p>
 
           </div>
           <div class="col-xl-12">
             <h4> Packaging Design </h4>
-            <p> A well designed package should be able to create a solid first impression that will
-              spark an interest within the audience to explore the product further. It's more than
-              just an outer cover, it reflects the brand personality, persuading the customer to
-              choose your product without a second thought.
+            <p>A well designed package should be able to create a solid first impression
+              that will spark an interest within the audience to explore the product further.
+              It's more than just an outer cover, it reflects the brand personality,
+              persuading the customer to choose your product without a second thought.
 
             </p>
-            <p> It is the perfect blend of form, structure, materials, colour, images and other
-              designing combinations that results in the acme of a visually appealing product.
-              Giraf will assist you in package designing that is enticing and memorable.
-
+            <p> It is the perfect blend of form, structure, materials, colour,
+              images and other designing combinations that results in the acme
+              of a visually appealing product. Giraf will assist you in package
+              designing that is enticing and memorable.
             </p>
 
 
@@ -227,8 +221,9 @@
               The card will contain the essential contact details of the business organization.
               An attractive business card designed using the best templates, can serve as an
               effective medium for brand marketing. Giraf offers custom card design services
-              that will familiarize the customers regarding the business through aesthetic
-              designs.
+              that will familiarize the customers regarding the business through aesthetic designs.
+
+
             </p>
 
 
@@ -237,23 +232,25 @@
             <p> We live in a world that is driven by visual aesthetics and engaging visual
               representation of concepts are often favoured. Utilizing this strategy and
               investing in brand corporate video will help in promoting the business.
-
             </p>
-            <p> At Giraf, we will create a comprehensive corporate video that entails the core
-              aspects which includes the company’s vision, business ideals, proper product
-              demonstration in a way that will enlighten the audience about the essence of
-              your business. Whether it's in the form of 360, augmented, virtual, live action or
-              animation, our team is ready to create the ideal video that will enhance your
-              search rankings.
+            <p> At Giraf, we will create a comprehensive corporate video that entails
+              the core aspects which includes the company’s vision, business ideals,
+              proper product demonstration in a way that will enlighten the audience
+              about the essence of your business. Whether it's in the form of 360, augmented,
+              virtual, live action or animation, our team is ready to create the ideal video
+              that will enhance your search rankings.
+
 
             </p>
             <h4> Brand Development </h4>
-            <p> Giraf is at your service to deliver brand outcomes that will help you assert your
-              space in the competitive edge. Our team is dedicated to craft brands that mirror
-              the vision and goals of the company. Our group of branding specialists have the
-              expertise in creating brand identities that anchors its presence in the target
-              market. We possess all the technical know-how in developing a comprehensive
+            <p> Giraf is at your service to deliver brand outcomes that will help
+              you assert your space in the competitive edge. Our team is dedicated
+              to craft brands that mirror the vision and goals of the company.
+              Our group of branding specialists have the expertise in creating
+              brand identities that anchors its presence in the target market.
+              We possess all the technical know-how in developing a comprehensive
               brand identity that will stand tall and stand out.
+
             </p>
 
           </div>
