@@ -303,16 +303,14 @@
        =================================== -->
   <section class="how-we-do-the-magic-area">
     <div class="container">
-      <h2> How We Do the Magic </h2>
+      <h2> How we craft the magic </h2>
       <div class="row box-commn">
 
 
         <div class="col-xl-3 col-lg-6 col-md-6 magic-box">
           <div class="how-we-do-the-magic-box">
-            <h5> <span> 1 </span> Definition </h5>
-            <p> Mapping the path and brainstorming the ideas to construct and discover.
-              Wanna know the secret? This is where we put out our
-              actions to conquer plateaus.
+            <h5> <span> 1 </span> Thoughts and ideation </h5>
+            <p> We seek, we learn and we lay out the trajectory . Our creative team brainstorms ideas, creating new concepts.
 
             </p>
           </div>
@@ -320,30 +318,25 @@
 
         <div class="col-xl-3 col-lg-6 col-md-6 magic-box">
           <div class="how-we-do-the-magic-box">
-            <h5> <span> 2 </span> Relentless Design Powerhouse </h5>
-            <p> With the dawn of research and ideas, we strategize and experiment with
-              projects to produce the most foolproof ideas that are efficient in every manner.
-
-
+            <h5> <span> 2 </span> Full throttle Creativity </h5>
+            <p> A team driven by passion and innovation. Staying updated to the trends and experimenting new strategies.
+              Yes, we craft ideas that are unique.
             </p>
           </div>
         </div>
 
         <div class="col-xl-3 col-lg-6 col-md-6 magic-box">
           <div class="how-we-do-the-magic-box">
-            <h5> <span> 3 </span> Refinery </h5>
-            <p> Harbouring ideas and products to the next form.
-              A comprehensive process of trials to find out the minuscule errors before delivering.
-
+            <h5> <span> 3 </span> Forging </h5>
+            <p> Taking the ideas to the next form. The series of trials to refine the product to its final form.
             </p>
           </div>
         </div>
 
         <div class="col-xl-3 col-lg-6 col-md-6 magic-box">
           <div class="how-we-do-the-magic-box">
-            <h5> <span> 4 </span> Who is There? Delivery Guy </h5>
-            <p> Why do we design? To deliver, not merely delivering the final products to the customers,
-              but making sure the end product is ready for real time feedback.
+            <h5> <span> 4 </span> From concept to launch - we deliver with purpose </h5>
+            <p> We take up the project to create something meaningful and impactful. That exceeds the expectations of our clients.
 
             </p>
           </div>
