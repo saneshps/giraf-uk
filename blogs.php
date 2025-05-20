@@ -16,8 +16,8 @@ $result = $conn->query($sql);
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Stay updated with the latest digital marketing trends from our  Giraf blog. Explore latest trends here">
-  <title>Explore & Read Trending Blogs |Giraf Creatives,Germany </title>
+  <meta name="description" content="Get practical insights and expert advice from Giraf – a trusted UK agency specialising in digital marketing, branding, animation, SEO, and web development. We deliver creative strategies that drive real growth and digital success.">
+  <title> Blogs | Top Digital Marketing Agency in the UK | Giraf – Expert SEO, Branding & Web Solutions </title>
   <!-- canonical -->
   <link href="https://girafcreatives.com/uk/blogs.php" rel="canonical">
   <!--// canonical -->

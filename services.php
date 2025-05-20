@@ -5,8 +5,8 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Explore our expert services,including digital marketing, branding, web and app development, animation, SEO, graphic design, photography, and videography">
-  <title>Digital Marketing,SEO,Branding,Web & App Development|Services|Giraf </title>
+  <meta name="description" content="Explore our full range of software services, including digital marketing, website development, branding, animation, photography, and videography, all thoughtfully designed to help your UK business thrive.">
+  <title> Web and App Development Company | Digital Marketing & Branding Services | Giraf UK </title>
   <!-- canonical -->
   <link href="https://girafcreatives.com/uk/services.php" rel="canonical">
   <!--// canonical -->

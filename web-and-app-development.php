@@ -5,8 +5,8 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Giraf offers top-notch web and app development services in Germany, creating user friendly websites and high-performance mobile apps. Contact us today">
-  <title>Leading Web & App Development Services in Germany |Giraf Creatives </title>
+  <meta name="description" content="Custom web, mobile app & e-commerce development services tailored for UK businesses. Giraf delivers innovative, scalable solutions to grow your brand online.">
+  <title> Web & App Development Company UK | E-commerce Experts | Giraf </title>
   <!-- canonical -->
   <link href="https://girafcreatives.com/uk/web-and-app-development.php" rel="canonical">
   <!--// canonical -->

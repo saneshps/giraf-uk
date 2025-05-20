@@ -5,8 +5,8 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Digital Marketing Company|Contact Us |Giraf Creatives,Germany </title>
-  <meta name="description" content="Get in touch with the leading digital marketing company in Germany. For more details, visit girafcreatives.de or give us a call. Let's talk! +49 7581 48882-0">
+  <title> Contact Us | Digital Marketing, Designing & Branding Agency, UK | Giraf </title>
+  <meta name="description" content="Looking for a reliable digital marketing, branding, designing, web & app development, animation, photography, and video production company in the UK? Contact us at +971 50 210 93 05 to discuss how we can help your business grow.">
 
   <!-- canonical -->
   <link href="https://girafcreatives.com/uk/connect-us.php" rel="canonical">

@@ -5,8 +5,8 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Boost your brand's performance with the best digital marketing company in Germany.We can help you improve your online presence with expert strategies.Contact us today">
-  <title> Best Digital Marketing Company in Germany |Giraf </title>
+  <meta name="description" content="Looking for a reliable digital marketing company in the UK? You’ve come to the right place. We offer affordable online marketing, internet marketing, and SEO services tailored to help UK businesses succeed.">
+  <title> Best Digital Marketing Company, UK | SEO Agency | Giraf </title>
   <!-- canonical -->
   <link href="https://girafcreatives.com/uk/digital-marketing.php" rel="canonical">
   <!--// canonical -->

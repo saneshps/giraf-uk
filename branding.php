@@ -5,8 +5,8 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="We are the best branding Company in Germany, offering great branding services for businesses like logo design, packaging design etc for business grow globally">
-  <title>Top Rated Branding Agency in Germany|Branding|Giraf </title>
+  <meta name="description" content="Looking for a creative branding agency in the UK? We specialize in brand strategy, visual identity, digital & print design, and packaging. Partner with Giraf for professional brand growth.">
+  <title> Creative Advertising & Professional Branding Agency in the UK | Giraf </title>
   <!-- canonical -->
   <link href="https://girafcreatives.com/uk/branding.php" rel="canonical">
   <!--// canonical -->

@@ -5,8 +5,8 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="We are the leading design service in Germany, offering expert branding, web design, and UI/UX solutions. Call us today—let's talk! +49 7581 488820">
-  <title> Leading Design Services in Germany | Giraf Creatives </title>
+  <meta name="description" content="Build a powerful brand with Giraf. We offer expert branding, UI/UX, web, and graphic design services tailored for UK startups and businesses.">
+  <title> Creative Branding & Design Agency UK | Giraf </title>
   <!-- canonical -->
   <link href="https://girafcreatives.com/uk/designing.php" rel="canonical">
   <!--// canonical -->

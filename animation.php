@@ -5,8 +5,8 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Giraf Creatives offers expert animation services in Germany, including 3D, stop-motion, hand-drawn animation, and motion graphics. Give us a call-let's talk +49 7581 488820">
-  <title> Top Rated Animation Services Company in Germany | Giraf </title>
+  <meta name="description" content="Giraf provides professional photography and videography services across the UK. Specializing in high-quality product and warehouse shoots to showcase your brand perfectly.">
+  <title> Best Animation Company,India|3D Animation Studio |Giraf </title>
   <!-- canonical -->
   <link href="https://girafcreatives.com/uk/animation.php" rel="canonical">
   <!--// canonical -->

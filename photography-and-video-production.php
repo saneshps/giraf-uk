@@ -5,8 +5,8 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Giraf provides Professional photography and video  services in Germany, specializing in high-quality visuals for branding, marketing, events, and promotions">
-  <title>Professional Photography & Videography Company ,Germany|Giraf </title>
+  <meta name="description" content="Giraf provides professional photography and videography services across the UK. Specializing in high-quality product and warehouse shoots to showcase your brand perfectly.">
+  <title> Creative Photography & Videography UK | Product & Warehouse Shoots | Giraf </title>
   <!-- canonical -->
   <link href="https://girafcreatives.com/uk/photography-and-video-production.php" rel="canonical">
   <!--// canonical -->
